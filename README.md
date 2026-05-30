@@ -111,16 +111,6 @@ The framework applies equally to:
 - event-driven platforms;
 - hybrid enterprise environments.
 
-Crystallization is not concerned with where components run.
-
-It is concerned with how much context an AI agent must traverse before making a safe change.
-
-A system may be deployed as a single application, a fleet of microservices, or a globally distributed platform.
-
-The architectural objective remains the same:
-
-Minimize Crystallization Radius while preserving Semantic Integrity.
-
 ### Two Fundamental Constraints
 
 AI Oriented Architecture minimizes Crystallization Radius.
@@ -197,7 +187,7 @@ The Quantum Spectrum
 Define Micro, Nano, and Pico decomposition boundaries.
 
 [**TIP-006**](./TIP-006.md)
-Straight-Line Code
+Declarative Straight-Line Code
 
 Reduce control-flow traversal and nesting complexity.
 
