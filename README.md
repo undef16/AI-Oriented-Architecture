@@ -166,6 +166,8 @@ It disfavors:
 
 The following patterns exist to reduce Crystallization Radius at different layers of the system:
 
+[**PRINCIPLES**](./PRINCIPLES.md): Canonical AIOA principles
+
 [**TIP-002**](./TIP-002.md)
 Semantic Collision - The Erasure of Domain Boundaries.
 
