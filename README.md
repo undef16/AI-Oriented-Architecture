@@ -2,6 +2,10 @@
 
 Status: Foundational Principle.
 
+Spec Kit: [undef16/spec-kit-aioa](https://github.com/undef16/spec-kit-aioa)
+
+A practical Spec Kit adaptation for applying AI Oriented Architecture principles in spec-driven development workflows.
+
 ### Context
 
 For decades, software architecture has been optimized for humans.
@@ -166,9 +170,6 @@ It disfavors:
 
 The following patterns exist to reduce Crystallization Radius at different layers of the system:
 
-[**PRINCIPLES**](./PRINCIPLES.md): Canonical AIOA principles
-
-
 [**TIP-002**](./TIP-002.md)
 Semantic Collision - The Erasure of Domain Boundaries.
 
@@ -195,19 +196,14 @@ Declarative Straight-Line Code
 Reduce control-flow traversal and nesting complexity.
 
 [**TIP-007**](./TIP-007.md)
-Strict JSON Gateways
+Strict JSON Gateways and Auditable DTOs
 
-Move uncertainty to system boundaries.
+Move uncertainty to system boundaries and make runtime state explainable.
 
 [**TIP-008**](./TIP-008.md)
 Event-Driven Integration
 
 Reduce cross-service reasoning dependencies.
-
-[**TIP-009**](./TIP-009.md)
-Auditable DTOs (ADTO)
-
-Reduce runtime-state reconstruction costs.
 
 ### Why It Matters
 
