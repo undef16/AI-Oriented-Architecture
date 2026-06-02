@@ -6,6 +6,8 @@ Spec Kit: [undef16/spec-kit-aioa](https://github.com/undef16/spec-kit-aioa)
 
 A practical Spec Kit adaptation for applying AI Oriented Architecture principles in spec-driven development workflows.
 
+![AIOA](AIOA.png)
+
 ### Context
 
 For decades, software architecture has been optimized for humans.
