@@ -246,8 +246,8 @@ Semantic Integrity means keeping domain concepts explicit, distinguishable, and 
 
 See also:
 
-- [Full FAQ](docs/FAQ.md)
-- [Glossary](docs/GLOSSARY.md)
+- [Full FAQ](FAQ.md)
+- [Glossary](GLOSSARY.md)
 
 #AI #LLM #AIAgents #SoftwareArchitecture #SystemDesign #AgenticAI #SoftwareEngineering #CodeQuality #TechLeadership #AIEngineering #Architecture
 
