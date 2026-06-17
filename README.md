@@ -228,8 +228,26 @@ For AI engineering teams:
 * Measure architectural success by how little of the system must be understood before a safe change can be made.
 
 The next generation of software architecture will not be defined by how much abstraction it can accumulate.
-
 It will be defined by how little context an intelligent agent must traverse to create value.
+
+## FAQ
+
+### What is AI Oriented Architecture?
+
+AI Oriented Architecture (AIOA) is a software architecture framework that adds AI-assisted development as an explicit design constraint. It focuses on reducing the amount of context an AI agent must gather before safely understanding, modifying, testing, or verifying a change.
+
+### What is Crystallization Radius?
+
+Crystallization Radius is the amount of software an AI agent must traverse before it can safely reason about a change. A smaller radius means more local reasoning, fewer dependency jumps, and lower modification risk.
+
+### What is Semantic Integrity?
+
+Semantic Integrity means keeping domain concepts explicit, distinguishable, and stable across the system. It prevents AI agents from collapsing similar-looking concepts into the same meaning.
+
+See also:
+
+- [Full FAQ](docs/FAQ.md)
+- [Glossary](docs/GLOSSARY.md)
 
 #AI #LLM #AIAgents #SoftwareArchitecture #SystemDesign #AgenticAI #SoftwareEngineering #CodeQuality #TechLeadership #AIEngineering #Architecture
 
